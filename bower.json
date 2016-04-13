@@ -1,13 +1,21 @@
 {
   "name": "beaver-slider",
-  "description": "bowerizing the beaver slider",
-  "main": [
-    "beaverslider-effects.js",
-    "beaverslider.js"
-  ],
+  "homepage": "http://beaverslider.com",
+  "description": "beaver slider bowerized",
+  "main": "['beaverslider-effects.js', 'beaverslider.js']",
   "moduleType": [],
-  "license": "MIT",
-  "homepage": "",
-  "author": "beaverslider",
-  "homepage": "http://beaverslider.com"
+  "keywords": [
+    "beaverslider"
+  ],
+  "authors": [
+    "simonellez"
+  ],
+  "license": "Freeware",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
